@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Application specific
+output/
+email_generator.log
+data/*.xlsx
+data/*.xls
+!data/input.xlsx
+test_structure.py
