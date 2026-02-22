@@ -212,3 +212,4 @@ email_generator.log
 data/*.xlsx
 data/*.xls
 !data/input.xlsx
+test_structure.py
