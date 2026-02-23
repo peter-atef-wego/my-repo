@@ -1,3 +1,4 @@
+"""Peter Atef"""
 """Main entry point for the Excel to Email generator application."""
 import logging
 import sys
